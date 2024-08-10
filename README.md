@@ -1,6 +1,6 @@
 # udiskie-systemd
 
-A systemd service for udiskie.
+A systemd service for udiskie with Arch Linux.
 
 ## Usage
 
